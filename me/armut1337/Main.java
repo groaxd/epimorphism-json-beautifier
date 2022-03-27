@@ -173,7 +173,7 @@ public class Main {
                 return true;
             }
         }
-        return true;
+        return false;
     }
 
     private static void collectTokens() {
